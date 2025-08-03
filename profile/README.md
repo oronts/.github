@@ -4,7 +4,7 @@
   <strong>Advanced Software Architecture, AI Systems & Cloud Platforms</strong>
 
   [![Website](https://img.shields.io/badge/Visit-oronts.com-7432FF?style=for-the-badge&logo=firefox)](https://oronts.com)
-  [![Contact](https://img.shields.io/badge/Email-us@oronts.com-1d233a?style=for-the-badge&logo=gmail)](mailto:contact@oronts.com)
+  [![Contact](https://img.shields.io/badge/Email-contact@oronts.com-1d233a?style=for-the-badge&logo=gmail)](mailto:contact@oronts.com)
 </div>
 
 ---
